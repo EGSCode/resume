@@ -5,37 +5,42 @@ Eunice Gomes
 
 
 ``` Iniciar bloco de código
-Bloco de código
-
-```
-
-### Personel Information
 E-mail: eunicegsiqueira@gmail.com
 Linkedin: eunice-siqueira-87b08410
 
+```
+
 ### Education
-Master of Science in Applied Computer - National Institute for Spatial Research – São José dos Campos/SP.
-MBA in Management Information Systems.
-MBA in Higher Education Teaching.
-Bachelor’s degree in Data Processing Technology.
-Industrial practice at Tz Kommunikationstechnik Gmbh - Germany.
+-Master of Science in Applied Computer - National Institute for Spatial Research – São José dos Campos/SP.
+
+-MBA in Management Information Systems.
+
+-MBA in Higher Education Teaching.
+
+-Bachelor’s degree in Data Processing Technology.
+
+-Industrial practice at Tz Kommunikationstechnik Gmbh - Germany.
+
 
 ### Skills
-Software Engineering Methods and technics.
-Project and development of software systems.
-Object Oriented Programming in general.
-English independent user: IELTS Course Certification in progress.
+-Software Engineering Methods and technics.
+
+-Project and development of software systems.
+
+-Object Oriented Programming in general.
+
+-English independent user: IELTS Course Certification in progress.
+
 
 ### Main Certifications
-Scrum Fundamentals Certified (SFC)
-Scrum Foundation Professional Certificate SFP
-AWS Academy Cloud Foundations.
-Cisco IT Essentials - Instructor.
+-Scrum Fundamentals Certified (SFC).
 
-### Last Recently Courses 
-XLI Brazilian Computing Society Congress - SBC
-AWS Academy Cloud Foundations – Educator -  AWS Academy 
-Remote Sensing of Environment -  Latin American Specialist Association (Selper/Brazil).
+-Scrum Foundation Professional Certificate SFP.
+
+-AWS Academy Cloud Foundations.
+
+-Cisco IT Essentials - Instructor.
+
 
 #### Support or Contact
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
