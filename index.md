@@ -2,13 +2,10 @@
 
 Eunice Gomes
 
-
-
-``` Iniciar bloco de código
 E-mail: eunicegsiqueira@gmail.com
+
 Linkedin: eunice-siqueira-87b08410
 
-```
 
 ### Education
 -Master of Science in Applied Computer - National Institute for Spatial Research – São José dos Campos/SP.
