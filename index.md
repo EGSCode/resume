@@ -5,9 +5,14 @@ Eunice Gomes
 E-mail: eunicegsiqueira@gmail.com
 
 Linkedin: eunice-siqueira-87b08410
+Lattes Plataform: http://lattes.cnpq.br/2284943947339694
 
 
 ### Education
+
+
+- MBA in Artificial Intelligence and Big Data - expected to September 2023
+
 -Master of Science in Applied Computer - National Institute for Spatial Research – São José dos Campos/SP.
 
 -MBA in Management Information Systems.
@@ -20,7 +25,7 @@ Linkedin: eunice-siqueira-87b08410
 
 
 ### Skills
--Software Engineering Methods and technics.
+-Software Engineering methods and technics.
 
 -Project and development of software systems.
 
